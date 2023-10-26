@@ -1,0 +1,15 @@
+
+//! yukardan acilan emin misin kutularının mantığı
+/*
+
+Öncelikle model.show açılsın o fix
+sonrasında bir şeye basılmadığı sürece zaten sorun olmaz 
+hayır ya da ekran dışına basılırsa sorunsuz kapanır
+addEventListener evet tuşu için yazılmıştır
+bir tane 1 e esitleyecegimiz deger olustur
+Evet e basılınca result 1 olcak sonra asıl fonk çalışsın
+ve oraya yollanacak bir degerde bizim flag variablemiz olcaktır
+callback(result1)
+bu o fonksiyonda 1 gonderdiysek calis demek yoksa calismaz zaten
+
+*/
